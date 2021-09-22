@@ -1,0 +1,9 @@
+Package: deque
+Type: Package
+Title: Implements a very simple deque
+Version: 1.0
+Date: 2021-09-23
+Author: Jason Cairns
+Maintainer: Jason Cairns <jason.cairns@aucklanduni.ac.nz>
+Description: Extremely simple, functor-based in-memory deque (FIFO) attaining persistance through R closures. I will change it to a more efficient C-based queue implementation when I have time.
+License: BSD_3_clause + file LICENSE
